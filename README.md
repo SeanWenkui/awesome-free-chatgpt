@@ -32,6 +32,8 @@
 
 ### 类似官网风格
 
+- [ 🆓 ] [七星问答 https://seven-star.org](https://seven-star.org/)
+
 - [ 🆓🌎 ] [https://chatbot.theb.ai](https://chatbot.theb.ai/)
 
 - [ 🆓🌎 ] [https://www.aitianhu.com](https://www.aitianhu.com/)
