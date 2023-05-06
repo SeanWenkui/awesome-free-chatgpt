@@ -138,6 +138,8 @@
 
 ### 其他风格
 
+- [ 🆓 ] [七星问答 https://seven-star.org](https://seven-star.org)
+
 - [ 🆓 ] [askwise https://ai.heptax.com](https://ai.heptax.com)
 
 - [ 🆓 ] [https://ailink.icu](https://ailink.icu/)
